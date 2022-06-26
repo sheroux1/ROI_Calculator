@@ -1,0 +1,5 @@
+Project name: this is a test
+Income: 2000.0
+Expenses: 1610.0
+Cashflow: 390.0
+ROI: 9.36
